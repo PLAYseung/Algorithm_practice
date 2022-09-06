@@ -1,4 +1,4 @@
-# 문자열 압축
+# 두 큐의 합을 같게 만들기
 
 ## [문제](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 
