@@ -1,6 +1,5 @@
-# 오픈 채팅방
 
-## [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+## [오픈 채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
 
 - 누군가 들어오면 "'닉네임'님이 들어왔습니다." 
 - 누군가 나가면 "'닉네임'님이 나갔습니다."

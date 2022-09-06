@@ -1,6 +1,5 @@
-# 두 큐의 합을 같게 만들기
 
-## [문제](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+## [두 큐의 합을 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 
 - 같은 문자 패턴을 압축 했을 때 전체 문자의 길이가 가장 짧게 나오는 패턴의 길이
 

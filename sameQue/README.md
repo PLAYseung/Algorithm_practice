@@ -1,6 +1,5 @@
-# 문자열 압축
 
-## [문제](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+## [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 
 - 두개의 큐 리스트 각각의 합이 같게 하고 큐에서 insert와 pop을 묶어서 1회 이라고 간주함
 - 가장 적게 이동해서 같은 값을 만들것
