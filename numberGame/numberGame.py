@@ -14,7 +14,8 @@ def solution (A,B):
     if Amin>Bmax: return 0
     
     for idx in range(len(A)):
-        if B[idx] > A[pos]:
-            pos += 1
+        # B의 요소가 이긴 경우에만 다음 A의 값으로 넘어간다
+        if B[idx] > A[pos]:  
+            pos += 1 
             res += 1
         return res
