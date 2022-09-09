@@ -18,4 +18,7 @@ def solution (A,B):
         if B[idx] > A[pos]:  
             pos += 1 
             res += 1
-        return res
+    return res
+
+if __name__=='__main__':
+    print(solution([5,1,3,7],[2,2,6,8]))
