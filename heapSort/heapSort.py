@@ -19,3 +19,7 @@ def solution(operations):
         answer.extend([heap[-1],heap[0]])
     
     return answer
+
+if __name__=='__main__':
+    print(solution(["I 16", "I -5643", "D -1", "D 1", "D 1", "I 123", "D -1"]))
+    print(solution(["I -45", "I 653", "D 1", "I -642", "I 45", "I 97", "D 1", "D -1", "I 333"]))
