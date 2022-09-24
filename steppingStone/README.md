@@ -13,13 +13,20 @@
 
 ## 요소
 
-- 입력 : stones , k
+- 입력 : 
+        stones : list
+        k : 건널수 있는 최대 거리 ( k=3; 1 번 -> 4번 )
 
 - 출력 : solution -> result
 
 
 ## 예상도
 
+- 0인 디딤돌이 k번 나오면 건널수 없음
+    + 리스트를 0번 부터 끝까지 훑어서 보면 되는가?
+
 
 ## result
 
+- 정화도 테스트 통과, 효율성 테스트 실패(시간 초과)
+    + [code](/steppingStone/steppingstone_acc.py)
