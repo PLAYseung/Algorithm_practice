@@ -13,9 +13,9 @@
 
 ## 요소
 
-- 입력 : 
-        stones : list
-        k : 건널수 있는 최대 거리 ( k=3; 1 번 -> 4번 )
+- 입력 : <br/>
+        > stones : list<br/>
+        > k : 건널수 있는 최대 거리 ( k=3; 1 번 -> 4번 )
 
 - 출력 : solution -> result
 
