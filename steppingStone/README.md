@@ -1,4 +1,4 @@
-## [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
+## [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
 
 - 징검다리는 한번 밟을 때 마다 숫자가 1 줄어든다
 - 디딤돌이 0이 되면 더 이상 밟을 수 없다
