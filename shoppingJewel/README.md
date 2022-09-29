@@ -19,3 +19,6 @@
 - [위의 코드의 앞뒤 변경](/shoppingJewel/shoppingGems.py)
 <br/> 제시된 테스트는 만족하지만 테스트 통과 X
 
+- [새로운 list를 만들지 않고 뒤에 부터 증가](/shoppingJewel/twoPoint.py)
+<br/> 증가값을 두개를 둬서 순차적으로 탐색
+<br/> 샘플테스트 통과 제출 검사 통과 X
