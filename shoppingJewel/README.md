@@ -11,6 +11,11 @@
 
 ## result
 
-- 전체 보석의 종류 정의
+- [전체 보석의 앞 뒤 순으로 요소 제거](/shoppingJewel/shoppingJewel.py)
 <br/> 제공되는 리스트에서 하나씩 제거 하면서 비교?
 <br/> 앞에서 부터 제거 하고 유니크 값을 얻다가 곗수가 적어지면 뒤에서부터 제거?
+<br/> 정답률 50%    
+
+- [위의 코드의 앞뒤 변경](/shoppingJewel/shoppingGems.py)
+<br/> 제시된 테스트는 만족하지만 테스트 통과 X
+
