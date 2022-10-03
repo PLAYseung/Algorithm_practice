@@ -10,9 +10,11 @@ public class Main {
         testList[3] = 5;
         testList[4] = 9;
         
-        fstSolution fstsol = new fstSolution();
+        // fstSolution fstsol = new fstSolution();
+        sndSolution sndsol = new sndSolution();
 
-        System.out.println(fstsol.solution(testList));
+        // System.out.println(fstsol.solution(testList));
+        System.out.println(sndsol.solution(testList));
 
     }
 }
