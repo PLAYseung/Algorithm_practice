@@ -14,3 +14,4 @@
 # result
 - [M을 리스트의 갯수로 나눔](/app/src/main/java/budget/fstSolution.java)
 <br/> M을 리스트의 갯수로 나눠서 내림한 값을 출력
+<br/> 입출력 예시만 통과
