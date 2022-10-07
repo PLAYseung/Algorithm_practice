@@ -10,8 +10,10 @@ public class App {
 
         int M = 485;
 
-        fstSolution fstSol = new fstSolution();
+        // fstSolution fstSol = new fstSolution();
+        sndSolution sndSol = new sndSolution();
 
-        System.out.println(fstSol.solution(budgets,M));
+        // System.out.println(fstSol.solution(budgets,M));
+        System.out.println(sndSol.solution(budgets,M));
     }
 }

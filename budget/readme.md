@@ -14,4 +14,9 @@
 # result
 - [M을 리스트의 갯수로 나눔](/app/src/main/java/budget/fstSolution.java)
 <br/> M을 리스트의 갯수로 나눠서 내림한 값을 출력
-<br/> 입출력 예시만 통과
+<br/> 입출력 예시, 테스트 케이스 1개 통과
+
+- [M을 리스트의 갯수로 나눔](/app/src/main/java/budget/sndSolution.java)
+<br/> 첫번째 문제 풀이 방식에 while문을 결합해서 예산을 최소한으로 남기기
+<br/> 입출력 예시, 테스트 케이스 1개 통과
+<br/> 반복 횟수의 문제가 아닌듯 해보임
