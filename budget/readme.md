@@ -20,3 +20,9 @@
 <br/> 첫번째 문제 풀이 방식에 while문을 결합해서 예산을 최소한으로 남기기
 <br/> 입출력 예시, 테스트 케이스 1개 통과
 <br/> 반복 횟수의 문제가 아닌듯 해보임
+
+- [max min 값을 비교](/app/src/main/java/budget/trdSolution.java)
+<br/> max 값과 min 값의 중간 값을 이용 
+<br/> 전체 예산의 합이 M값 이상일 때
+<br/> min 값과 mid 값의 차이만큼을 최대 값에 배분 하면서 차이를 줄여 나감
+<br/> [IntStream을 활용한 코드 줄이기](/app/src/main/java/budget/cleancode.java)

@@ -11,9 +11,13 @@ public class App {
         int M = 485;
 
         // fstSolution fstSol = new fstSolution();
-        sndSolution sndSol = new sndSolution();
+        // sndSolution sndSol = new sndSolution();
+        // trdSolution trdSol = new trdSolution();
+        cleancode clcode = new cleancode();
 
         // System.out.println(fstSol.solution(budgets,M));
-        System.out.println(sndSol.solution(budgets,M));
+        // System.out.println(sndSol.solution(budgets,M));
+        // System.out.println(trdSol.solution(budgets,M));
+        System.out.println(clcode.solution(budgets,M));
     }
 }

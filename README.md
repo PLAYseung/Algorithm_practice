@@ -13,3 +13,4 @@
 >- [큰 수](/bigNumber/)
 >- [예산 분배](/budget/)
 >- [기지국 건설](/build_baseStation/)
+>- [숫자 게임](/numberGame_java/)
