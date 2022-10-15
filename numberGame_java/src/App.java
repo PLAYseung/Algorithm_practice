@@ -14,8 +14,12 @@ public class App {
         B[2] = 6;
         B[3] = 8;
 
-        fstsolution fstsol = new fstsolution();
+        // fstsolution fstsol = new fstsolution();
+        // sndsolution sndsol = new sndsolution();
+        trdsolution trdsol = new trdsolution();
 
-        System.out.println(fstsol.solution(A, B));
+        // System.out.println(fstsol.solution(A, B));
+        // System.out.println(sndsol.solution(A, B));
+        System.out.println(trdsol.solution(A, B));
     }
 }
