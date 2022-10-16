@@ -15,12 +15,12 @@
 
 ## result
 
-- [처음 문제 풀이](/src/Solution.java)
+- [처음 문제 풀이](/build_baseStation/src/Solution.java)
 <br/> 기존에 설치한 기지국 위치에 설치 하고 범위를 마킹
 <br/> 처음 부터 마킹한 자리를 제외한 부분 중에서 범위의 중간을 마킹
 <br/> 마킹이 다 채워질때 까지 반복 - X
 
-- [두번째 문제 풀이](/src/sndSolution.java)
+- [두번째 문제 풀이](/build_baseStation/src/sndSolution.java)
 <br/> answer : 추가 설치해야 하는 기지국
 <br/> si : stations를 하나씩 훑어서 지나갈 포인터
 <br/> position : 기지국이 설치된 아파트

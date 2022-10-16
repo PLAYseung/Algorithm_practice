@@ -16,7 +16,7 @@
 
 # result
 
-- [2진 수처럼 증가](/src/fstsolution.java)
+- [2진 수처럼 증가](/Spy/src/fstsolution.java)
 <br/> 옷의 종류가 늘어날때 마다 2진수의 자리가 커짐
 <br/> 1 -> 2 -> 4 -> 8 -> ... 
 <br/> 매 자릿수 마다 같은 옷의 종류 만큼 곱하기
