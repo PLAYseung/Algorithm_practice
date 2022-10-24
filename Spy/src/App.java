@@ -5,8 +5,10 @@ public class App {
             {"bluesunglasses", "eyewear"}, 
             {"green_turban", "headgear"}};
 
-        fstsolution fstsol = new fstsolution();
+        // fstsolution fstsol = new fstsolution();
+        sndsolution sndsol = new sndsolution();
 
-        System.out.println(fstsol.solution(clothes));
+        // System.out.println(fstsol.solution(clothes));
+        System.out.println(sndsol.solution(clothes));
     }
 }
