@@ -8,8 +8,8 @@ public class App {
             {0,0,0,0,1}
         };
 
-        fstsolution fstsol = new fstsolution();
+        // fstsolution fstsol = new fstsolution();
 
-        System.out.println(fstsol.solution(maps));
+        // System.out.println(fstsol.solution(maps));
     }
 }

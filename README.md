@@ -10,8 +10,9 @@
 >- [보석 쇼핑](/shoppingJewel/)
 
 ># Java
->- [큰 수](/bigNumber/)
->- [예산 분배](/budget/)
->- [기지국 건설](/build_baseStation/)
->- [숫자 게임](/numberGame_java/)
->- [위장](/Spy/)
+>- [큰 수](/bigNumber/) - 정렬 (Sort)
+>- [예산 분배](/budget/) - 이분탐색 (Binary Search)
+>- [기지국 건설](/build_baseStation/) - 그리디 (Greedy)
+>- [숫자 게임](/numberGame_java/) - 시뮬레이션 (Simulation)
+>- [위장](/Spy/) - 해쉬 (Hash)
+>- [게임 지도 최단거리](/GameMap/) - 너비우선탐색 (BFS)
