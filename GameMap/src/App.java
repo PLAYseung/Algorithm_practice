@@ -9,7 +9,9 @@ public class App {
         };
 
         // fstsolution fstsol = new fstsolution();
+        sndsolution sndsol = new sndsolution();
 
         // System.out.println(fstsol.solution(maps));
+        System.out.println(sndsol.solution(maps));
     }
 }
