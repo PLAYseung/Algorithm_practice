@@ -16,3 +16,4 @@
 >- [숫자 게임](/numberGame_java/) - 시뮬레이션 (Simulation)
 >- [위장](/Spy/) - 해쉬 (Hash)
 >- [게임 지도 최단거리](/GameMap/) - 너비우선탐색 (BFS)
+>- [올바른 괄호](/correctBracket/) - 깊이우선탐색 (DFS)
