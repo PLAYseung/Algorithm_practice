@@ -12,5 +12,9 @@
 
 # result
 
+- [DFS 예제](/correctBracket/src/DFS.java)
+<br/> 재귀 형태로 DFS 예제 구현
+<br/> 더이상 다음 번호가 없을때 까지 갔다가 돌아오는 형태
+
 - [모든 경우를 만들어서 실행](/correctBracket/src/fthsolution.java)
 <br/> 괄호의 형태를 반복적으로 생성하면서 올바른 형태에서만 카운트
