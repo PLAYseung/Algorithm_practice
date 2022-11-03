@@ -11,7 +11,9 @@
 >- [보석 쇼핑](/shoppingJewel/)
 > ### **Softeer**
 >- [성적 평균](/avgScore/)
->- [징검다리](/newSteppingStone/)
+>- [징검다리1/2](/newSteppingStone/)
+>- [수퍼 바이러스](/superVirus/)
+>- [강의실 배정](/assignClass/)
 
 
 ># Java
