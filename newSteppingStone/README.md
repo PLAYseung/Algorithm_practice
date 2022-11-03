@@ -39,4 +39,4 @@
 ## result 2
 
 - [인덱스 번호로 순차적으로 서치](/newSteppingStone/sndNewSteppingStone.py)
-    <br/>ㅤㅤㅤㅤㅤㅤ
+    <br/>ㅤㅤㅤㅤㅤㅤ이진 탐색

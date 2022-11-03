@@ -21,3 +21,6 @@
 
 - [인덱스 번호로 순차적으로 서치](/wellFrog/wellFrog.py)
     <br/>ㅤㅤㅤㅤㅤㅤ
+
+- [조건문으로만 해결](/wellFrog/solution.py)
+    <br/>ㅤㅤㅤㅤㅤㅤ모범 답안

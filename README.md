@@ -10,10 +10,12 @@
 >- [징검다리 건너기](/steppingStone/)
 >- [보석 쇼핑](/shoppingJewel/)
 > ### **Softeer**
->- [성적 평균](/avgScore/)
->- [징검다리1/2](/newSteppingStone/)
->- [수퍼 바이러스](/superVirus/)
->- [강의실 배정](/assignClass/)
+>- [성적 평균](/avgScore/) - 정수 표현식
+>- [징검다리1/2](/newSteppingStone/) 1 - 서치 / 2 - 이진탐색
+>- [수퍼 바이러스](/superVirus/) - pow 
+>- [강의실 배정](/assignClass/) - heapq
+>- [우물안의 개구리](/wellFrog/) - 조건문 활용
+>- [이미지 프로세싱](/imgProcessing/) - dfs
 
 
 ># Java
