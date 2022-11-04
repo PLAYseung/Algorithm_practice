@@ -28,3 +28,7 @@
 <br/> Queue를 이용한 BFS 알고리즘에 대한 진행 방식
 <br/> 모든 구간을 탐색하는 것이 아닌 갈 수 있는 구간을 탐색 후
 <br/> 다음 탐색을 진행하는 형식
+
+- [deque를 이용한 풀이](/GameMap/GameMap.py)
+<br/> Python의 collections 패키지의 deque 함수를 이용
+<br/> 같은 크기의 맵을 만들고 해당 위치에 값을 더해나가는 형식

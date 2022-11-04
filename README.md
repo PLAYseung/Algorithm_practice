@@ -16,6 +16,7 @@
 >- [강의실 배정](/assignClass/) - heapq
 >- [우물안의 개구리](/wellFrog/) - 조건문 활용
 >- [이미지 프로세싱](/imgProcessing/) - dfs
+>- [플레이페어 암호](/playPare/)
 
 
 ># Java
