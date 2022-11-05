@@ -47,8 +47,10 @@ def main():
         massege.append('X')
 
     cy_key = []
+    for i in range(0,len(massege),2):
+        cy_key.append(massege[i:i+2])
     
-    pass
+    print(cy_key)
 
 if __name__=='__main__':
     main()
