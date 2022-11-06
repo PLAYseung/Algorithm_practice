@@ -21,7 +21,6 @@ def main():
                 base.remove(st)
 
     base = use_alpha + base
-    base.remove('\n')
 
     key_map = [[],[],[],[],[]]
     alpha_num = 0
@@ -50,7 +49,53 @@ def main():
     for i in range(0,len(massege),2):
         cy_key.append(massege[i:i+2])
     
-    print(cy_key)
+
+    cy_key_idx = list()
+    for idx,item in enumerate(cy_key):
+        each_list = list()
+        for char in item:
+            for i in range(5):
+                for j in range(5):
+                    if char == key_map[i][j]:
+                        each_list.append([i,j])
+        cy_key_idx.append(each_list)
+
+
+    for idx,char_set in enumerate(cy_key_idx):
+        if char_set[0][0] == char_set[1][0]:
+            if cy_key_idx[idx][0][1] < 4:
+                cy_key_idx[idx][0][1] += 1
+            else:
+                cy_key_idx[idx][0][1] = 0
+
+            if cy_key_idx[idx][1][1] < 4:
+                cy_key_idx[idx][1][1] += 1
+            else:
+                cy_key_idx[idx][1][1] = 0
+
+        elif char_set[0][1] == char_set[1][1]:
+            if cy_key_idx[idx][0][0] < 4:
+                cy_key_idx[idx][0][0] += 1
+            else:
+                cy_key_idx[idx][0][0] = 0
+
+            if cy_key_idx[idx][1][0] < 4:
+                cy_key_idx[idx][1][0] += 1
+            else:
+                cy_key_idx[idx][1][0] = 0
+
+        else:
+            cy_key_idx[idx][0][1],cy_key_idx[idx][1][1] = cy_key_idx[idx][1][1],cy_key_idx[idx][0][1]
+        
+
+
+    answer = ''
+    for char_set in cy_key_idx:
+        for char in char_set:
+            pass
+            answer += key_map[char[0]][char[1]]
+
+    print(answer)
 
 if __name__=='__main__':
     main()
