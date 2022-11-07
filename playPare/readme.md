@@ -33,8 +33,9 @@ uvwxz
 
 ## result
 
-- [인덱스 번호로 순차적으로 서치](/playPare/playPare.py)
-    <br/>ㅤㅤㅤㅤㅤㅤ
+- [절차적으로 풀이](/playPare/playPare.py)
+    <br/>ㅤㅤㅤㅤㅤㅤ테스트 케이스 1개 통과
+    <br/>ㅤㅤㅤㅤㅤㅤ문자열 배치 -> 중복 확인 -> 2개씩 분리 -> 암호화 알고리즘 적용
 
-- [조건문으로만 해결](/wellFrog/solution.py)
-    <br/>ㅤㅤㅤㅤㅤㅤ모범 답안
+- [다른 사람 풀이](/playPare/solution.py)
+    <br/>ㅤㅤㅤㅤㅤㅤ
