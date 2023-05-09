@@ -9,6 +9,8 @@
 >- [이중 우선순위 큐](/heapSort/)
 >- [징검다리 건너기](/steppingStone/)
 >- [보석 쇼핑](/shoppingJewel/)
+>- [짝지어 제거하기](/deletePare/)
+>- [최솟값 만들기](/meanValue/)
 > ### **Softeer**
 >- [성적 평균](/avgScore/) - 정수 표현식
 >- [징검다리1/2](/newSteppingStone/) 1 - 서치 / 2 - 이진탐색
