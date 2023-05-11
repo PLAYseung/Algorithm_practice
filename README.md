@@ -11,6 +11,9 @@
 >- [보석 쇼핑](/shoppingJewel/)
 >- [짝지어 제거하기](/deletePare/)
 >- [최솟값 만들기](/meanValue/)
+>- [영어 끝말잇기](/engTail/)
+>- [점프와 순간이동](/jumpAndWorp/)
+>- [구명보트](/lifeboat/)
 > ### **Softeer**
 >- [성적 평균](/avgScore/) - 정수 표현식
 >- [징검다리1/2](/newSteppingStone/) 1 - 서치 / 2 - 이진탐색
@@ -19,7 +22,8 @@
 >- [우물안의 개구리](/wellFrog/) - 조건문 활용
 >- [이미지 프로세싱](/imgProcessing/) - dfs
 >- [플레이페어 암호](/playPare/)
-
+### 백준
+>- [로봇 청소기](/robotClearner/) - 너비우선탐색 (BFS) 이론 정리 포함
 
 ># Java
 > ### **프로그래머스**
